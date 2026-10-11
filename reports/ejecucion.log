@@ -1,0 +1,9 @@
+19:04:14 [INFO] utils.helpers: Abriendo https://www.saucedemo.com/
+19:04:16 [INFO] utils.helpers: Haciendo login con el usuario 'standard_user'
+19:04:21 [INFO] utils.helpers: Abriendo https://www.saucedemo.com/
+19:04:22 [INFO] utils.helpers: Haciendo login con el usuario 'standard_user'
+19:04:23 [INFO] test_saucedemo: Productos encontrados: 6
+19:04:23 [INFO] test_saucedemo: Primer producto: Sauce Labs Backpack - $29.99
+19:04:27 [INFO] utils.helpers: Abriendo https://www.saucedemo.com/
+19:04:28 [INFO] utils.helpers: Haciendo login con el usuario 'standard_user'
+19:04:28 [INFO] test_saucedemo: Producto agregado: Sauce Labs Backpack
